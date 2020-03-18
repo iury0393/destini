@@ -20,8 +20,8 @@ Um jogo onde você escolhe sua própria aventura.
 
 Use ```git clone https://github.com/iury0393/destini.git ``` para clonar o projeto.
 
-Entre no *** Android Studio *** e abra o *** pubspec.yaml ***.
-Depois clique em *** Get Dependencies *** e após a intalação, simule o aplicativo em um simulador.
+Entre no ***Android Studio*** e abra o ***pubspec.yaml***.
+Depois clique em ***Get Dependencies*** e após a intalação, simule o aplicativo em um simulador.
 
 
 ## Desenvolvedor
